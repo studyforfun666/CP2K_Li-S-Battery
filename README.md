@@ -1,1 +1,1 @@
-this is the code to reproduce thesis “Non-Negligible Role of Multifunctional MXene Hosts for Li–S Batteries: Anchoring and Electrocatalysis"
+this is the cp2k code to reproduce thesis “Non-Negligible Role of Multifunctional MXene Hosts for Li–S Batteries: Anchoring and Electrocatalysis"
